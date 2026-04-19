@@ -44,3 +44,7 @@ using Cisco Packet Tracer.
 - Open Cisco Packet Tracer
 -  Load the .pkt file
 - Run simulation
+- 
+## 📸 Topology
+<img width="1269" height="831" alt="topology" src="https://github.com/user-attachments/assets/022794ba-1147-413f-b74d-cfc8612d919b" />
+
